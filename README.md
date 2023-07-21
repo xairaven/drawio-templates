@@ -4,3 +4,7 @@
 
 My `.xml` templates (libraries) for draw.io. <br>
 **For use**: `File` -> `Open Library` -> `needed-template.xml`.
+
+Title | Type
+------|------
+[**State Diagram**](./UML/State.xml) | UML 
